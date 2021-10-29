@@ -16,7 +16,7 @@ void main (void) {
 
     for (int i = 0; i < 20; i++) {                      // Массив A заполняется числами из последовательности фиббоначи 
         A[i] = fib (i);
-        printf ("%d \n", A[i]);
+        //printf ("%d \n", A[i]);
     }
 
     printf ("enter 10 numbers \n");
